@@ -1,0 +1,14 @@
+C:\Projetos\Sistema_celular_poo\bin\Debug\net8.0\Sistema_celular_poo.exe
+C:\Projetos\Sistema_celular_poo\bin\Debug\net8.0\Sistema_celular_poo.deps.json
+C:\Projetos\Sistema_celular_poo\bin\Debug\net8.0\Sistema_celular_poo.runtimeconfig.json
+C:\Projetos\Sistema_celular_poo\bin\Debug\net8.0\Sistema_celular_poo.dll
+C:\Projetos\Sistema_celular_poo\bin\Debug\net8.0\Sistema_celular_poo.pdb
+C:\Projetos\Sistema_celular_poo\obj\Debug\net8.0\Sistema_celular_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Sistema_celular_poo\obj\Debug\net8.0\Sistema_celular_poo.AssemblyInfoInputs.cache
+C:\Projetos\Sistema_celular_poo\obj\Debug\net8.0\Sistema_celular_poo.AssemblyInfo.cs
+C:\Projetos\Sistema_celular_poo\obj\Debug\net8.0\Sistema_celular_poo.csproj.CoreCompileInputs.cache
+C:\Projetos\Sistema_celular_poo\obj\Debug\net8.0\Sistema_celular_poo.dll
+C:\Projetos\Sistema_celular_poo\obj\Debug\net8.0\refint\Sistema_celular_poo.dll
+C:\Projetos\Sistema_celular_poo\obj\Debug\net8.0\Sistema_celular_poo.pdb
+C:\Projetos\Sistema_celular_poo\obj\Debug\net8.0\Sistema_celular_poo.genruntimeconfig.cache
+C:\Projetos\Sistema_celular_poo\obj\Debug\net8.0\ref\Sistema_celular_poo.dll
